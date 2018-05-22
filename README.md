@@ -9,3 +9,6 @@ gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.8</br>
 gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.8</br>
 gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.8</br>
 gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3</br>
+gcr.io/google_containers/heapster-grafana-amd64:v4.4.3</br>
+gcr.io/google_containers/heapster-amd64:v1.4.2</br>
+gcr.io/google_containers/heapster-influxdb-amd64:v1.3.3</br>
