@@ -1,4 +1,5 @@
 #！/bin/bash
+#首先执行minikube ssh进入虚拟机
 docker pull tobughan/kube-apiserver-amd64:v1.10.0
 docker pull tobughan/kube-controller-manager-amd64:v1.10.0
 docker pull tobughan/kube-scheduler-amd64:v1.10.0
